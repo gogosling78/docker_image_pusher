@@ -9,3 +9,5 @@ altran1502/immich-server
 altran1502/immich-web
 altran1502/immich-machine-learning
 altran1502/immich-proxy
+tensorchord/pgvecto
+redis:6.2
